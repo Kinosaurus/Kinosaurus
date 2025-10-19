@@ -3,7 +3,7 @@
 
 ## 💼 Projects
 - 📊 **Fantasy Football Analysis** – Built using Pandas library, data obtained from HTTP requests to Fantasy Premier League API
-- ⚽ **Football Data Scraping Tool** – Built a web scraper using Selenium library, to collate football statistics from FBREF
+- ⚽ **Football Data Scraping x Analysis** – Built a web scraper using Selenium library, to collate football statistics from FBREF
 
 ## 🧠 Skills
 - **Languages:** Python, R, SQL
