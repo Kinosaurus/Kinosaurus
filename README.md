@@ -2,16 +2,16 @@
 🎓 Data Analyst Student | 📊 Sports Analytics | ⚙️ Python, SQL, R
 
 ## 💼 Projects
-- 📊 **Fantasy Football Analysis** – Built using Pandas library, data obtained from HTTP requests to Fantasy Premier League API
-- ⚽ **Football Data Scraping x Analysis** – Built a web scraper using Selenium library, to collate football statistics from FBREF
+- 📊 **Driving Theory RAG** – Built using Ollama's local LLMs, data obtained from traffic police website.
+- ⚽ **CT Scan Image Classification** – Used transfer learning to build a PyTorch deep learning model, data obtained from Kaggle.
 
 ## 🧠 Skills
 - **Languages:** Python, R, SQL
-- **Libraries:** pandas, scikit-learn, XGBoost, LightGBM, matplotlib, seaborn
+- **Libraries:** torch, pandas, scikit-learn, matplotlib, seaborn
 - **Tools:** Jupyter, Excel, Power BI, Git
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/kinsongan) | [Email](mailto:kinson.gdx@gmail.co)
+[LinkedIn](https://linkedin.com/in/kinsongan) | [Email](mailto:kinson.gdx@gmail.com)
 <!--
 **Kinosaurus/Kinosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 💼 Projects
