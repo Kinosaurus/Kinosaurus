@@ -2,13 +2,14 @@
 🎓 Data Analyst Student | 📊 Sports Analytics | ⚙️ Python, SQL, R
 
 ## 💼 Projects
-- 📊 **Driving Theory RAG** – Built using Ollama's local LLMs, data obtained from traffic police website.
-- ⚽ **CT Scan Image Classification** – Used transfer learning to build a PyTorch deep learning model, data obtained from Kaggle.
+- 🚘 **Driving Theory RAG** – Built using Ollama's local LLMs, data obtained from traffic police website.
+- 🩻 **CT Scan Image Classification** – Used transfer learning to build a PyTorch deep learning model, data obtained from Kaggle.
+- 🏎️ **F1 Lineup Game** - Adapted the 38-0-0 football game to the world of Formula 1.
 
 ## 🧠 Skills
 - **Languages:** Python, R, SQL
 - **Libraries:** torch, pandas, scikit-learn, matplotlib, seaborn
-- **Tools:** Jupyter, Excel, Power BI, Git
+- **Tools:** Jupyter, Excel, Power BI, Git, Ollama
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/kinsongan) | [Email](mailto:kinson.gdx@gmail.com)
