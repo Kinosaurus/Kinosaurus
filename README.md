@@ -5,11 +5,12 @@
 - 🚘 **Driving Theory RAG** – Built using Ollama's local LLMs, data obtained from traffic police website.
 - 🩻 **CT Scan Image Classification** – Used transfer learning to build a PyTorch deep learning model, data obtained from Kaggle.
 - 🏎️ **F1 Lineup Game** - Adapted the 38-0-0 football game to the world of Formula 1.
+- ⚽ **FPL 26/27 Stats Dashboard** - Vibecoded a Streamlit dashboard to visualise Fantasy premier League data.
 
 ## 🧠 Skills
 - **Languages:** Python, R, SQL
 - **Libraries:** torch, pandas, scikit-learn, matplotlib, seaborn
-- **Tools:** Jupyter, Excel, Power BI, Git, Ollama
+- **Tools:** Jupyter, Excel, Power BI, Git, Ollama, Streamlit
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/kinsongan) | [Email](mailto:kinson.gdx@gmail.com)
